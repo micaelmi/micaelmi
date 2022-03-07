@@ -31,5 +31,5 @@
   <a href = "mailto:micaelmiranda124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/micael-m-6230b41ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/garradefogo124/garradefogo124/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/garradefogo124/garradefogo124/blob/output/github-contribution-grid-snake.svg) 
 </div>
