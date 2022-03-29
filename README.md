@@ -8,9 +8,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/garradefogo124">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=garradefogo124&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garradefogo124&layout=compact&langs_count=7&theme=gruvbox"/>
+  <a href="https://github.com/micaelmi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=micaelmi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmi&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div align="center"><br>
   #Learning
@@ -41,5 +41,5 @@
   <a href = "mailto:micaelmiranda124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/micael-m-6230b41ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/garradefogo124/garradefogo124/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/micaelmi/micaelmi/blob/output/github-contribution-grid-snake.svg) 
 </div>
