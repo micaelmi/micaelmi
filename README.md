@@ -34,9 +34,14 @@
 <div> 
 
 <h2>📨Contato</h2>
-  <a href="https://instagram.com/micaelmiranda15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:micaelmiranda124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/micaelmi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:micaelmiranda124@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-mail" width="32" />
+  <p>E-mail: micaelmiranda124@gmail.com</p>
+  </a>
+  <a href="https://www.linkedin.com/in/micaelmi" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" alt="LinkedIn" width="32" />
+  <p>LinkedIn: Micael Miranda Inácio</p>
+  </a> 
   
   <!-- ![Snake animation](https://github.com/micaelmi/micaelmi/blob/output/github-contribution-grid-snake.svg) -->
 </div>
