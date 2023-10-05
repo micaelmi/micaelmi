@@ -8,10 +8,6 @@
   - 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas <br>
   - 💻 Procurando colaborar em projetos web, como Home Office
   </p>
-
-  <h2>🔎GitHub Status</h2>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=micaelmi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmi&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div><br>
 <h2>💻Tecnologias</h2>
