@@ -6,7 +6,8 @@
   <p>
 📚 Sou formado como Técnico de Desenvolvimento de Sistemas pela Etec de Atibaia <br> e estou estudando Análise e Desenvolvimento de Sistemas na Fatec de Bragança Paulista. <br><br>
 👨‍💻 Gosto de estudar diversas tecnologias para ter uma boa amplitude de conhecimentos <br> e me manter atualizado, mas a área que tenho mais experiência é a de desenvolvimento web. <br><br>
-✨ Estou estudando principalmente JavaScript, PHP e Java, e desenvolvendo meus projetos pessoais <br>
+✨ Estou estudando principalmente JavaScript (React, Next, Node e TypeScript) e robótica com Arduíno e ESP32. <br>
+👨‍💼 Atualmente estou trabalhando como analista e desenvolvedor de sistemas na empresa Star Seg.
   </p>
 </div>
 <div><br>
