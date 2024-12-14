@@ -1,44 +1,68 @@
+<h1 align="center">Olá! 👋 Eu sou o Micael!</h1>
 
+<p align="center">
+  Desenvolvedor FullStack | Apaixonado por Tecnologia | Formado em ADS
+</p>
 
-<h1>Olá! Eu sou o Micael!</h1>
+---
 
+## 🧑‍💻 Sobre Mim
+📚 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec de Bragança Paulista.  
+👨‍💻 Tenho experiência em desenvolvimento web, e estou constantemente me atualizando para acompanhar as tendências tecnológicas.  
+✨ Estou focado em **JavaScript**, com frameworks e bibliotecas como **React**, **Next.js** e **Node.js**, além de explorar o universo da robótica com **Arduino** e **ESP32**.  
+👨‍💼 Atualmente, atuo como **Analista e Desenvolvedor de Sistemas** na empresa **Star Seg**.
+
+---
+
+## 🚀 Minhas Habilidades
+No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que eu mais me especializei foi no desenvolvimento web baseado em JavaScript, utilizando o React e o Node como meus principais aliados para construir aplicações completas, criando soluções para diversos problemas que vão surgindo. Abaixo estão listadas a maioria das tecnologias com que trabalhei. 
+
+### 👨‍💻 Linguagens e Ferramentas
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>
+</div>
+
+### 📈 Estatísticas do Meu Perfil
 <div>
-  <p>
-📚 Sou formado como Técnico de Desenvolvimento de Sistemas pela Etec de Atibaia <br> e estou estudando Análise e Desenvolvimento de Sistemas na Fatec de Bragança Paulista. <br><br>
-👨‍💻 Gosto de estudar diversas tecnologias para ter uma boa amplitude de conhecimentos <br> e me manter atualizado, mas a área que tenho mais experiência é a de desenvolvimento web. <br><br>
-✨ Estou estudando principalmente JavaScript (React, Next, Node e TypeScript) e robótica com Arduíno e ESP32. <br>
-👨‍💼 Atualmente estou trabalhando como analista e desenvolvedor de sistemas na empresa Star Seg.
-  </p>
-</div>
-<div><br>
-<h2>💻Tecnologias</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="-Php" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div><br>
+  <img style="height:100%; width:40%" src="https://github-readme-stats.vercel.app/api?username=micaelmi&show_icons=true&theme=merko" alt="Estatísticas do GitHub">
+  <img style="height:100%; width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmi&layout=compact&theme=dark" alt="Linguagens Mais Usadas">
 </div>
 
-<div> 
+---
 
-<h2>📨Contato</h2>
-  <a href = "mailto:micaelmiranda124@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="E-mail" width="32" />
-  <p>E-mail: micaelmiranda124@gmail.com</p>
+<!--## 🌟 Projetos em Destaque
+<a href="https://github.com/starseg/star-condomine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starseg&repo=star-condomine&theme=dark" />
+</a>
+<a href="https://github.com/micaelmi/table-tennis-scoreboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micaelmi&repo=table-tennis-scoreboard&theme=dark" />
+</a>
+
+---
+-->
+<div style="display: flex; gap: 1rem">
+  <h2>📫 Contato </h2>
+  <a href="mailto:micaelmiranda124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="https://www.linkedin.com/in/micaelmi" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3991/3991775.png" alt="LinkedIn" width="32" />
-  <p>LinkedIn: Micael Miranda Inácio</p>
-  </a> 
-  
-  <!-- ![Snake animation](https://github.com/micaelmi/micaelmi/blob/output/github-contribution-grid-snake.svg) -->
+  <a href="https://www.linkedin.com/in/micaelmi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/micaelmiranda124" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
