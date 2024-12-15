@@ -1,10 +1,11 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c10759fb-1577-4f5d-904a-72dbbde1e37e" alt="Cover">
+<img src="https://github.com/user-attachments/assets/03a2cea9-a758-480b-aafc-fe2f3219e628" alt="Cover">
 </div>
+
 
 <div align="center">
   <strong style="font-size:2.5rem; margin-top:1rem">
-    Desenvolvedor FullStack | Apaixonado por Tecnologia | Formado em ADS
+    🐟🐟🐟🐟 Desenvolvedor Web FullStack | Apaixonado por Tecnologia | Análise e Desenvolvimento de Sistemas 🐙
   </strong>
 </div>
 
