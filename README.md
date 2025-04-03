@@ -12,10 +12,14 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
-📚 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec de Bragança Paulista e em **Desenvolvimento de Sistemas** pela Etec Atibaia.  
+📚 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec de Bragança Paulista e em **Desenvolvimento de Sistemas** pela Etec Atibaia. 
+
 👨‍💻 Tenho experiência em desenvolvimento web, e estou constantemente me atualizando para acompanhar as tendências tecnológicas.  
+
 ✨ Estou focado em **JavaScript**, com frameworks e bibliotecas como **React**, **Next.js** e **Node.js**, além de explorar o universo da robótica com **Arduino** e **ESP32**.  
+
 👨‍💼 Atualmente, atuo como **Desenvolvedor de Sistemas** na empresa **Star Seg** e também trabalho nos meus projetos pessoais.  
+
 🎯 Meu objetivo é ser um desenvolvedor de software confiante para criar as soluções necessárias aos problemas que eu me propor a resolver, auxiliando o público com a utilização da tecnologia nas mais diversas áreas.
 
 ---
@@ -24,7 +28,7 @@
 No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que eu mais me especializei foi no desenvolvimento web baseado em JavaScript, utilizando o React e o Node como meus principais aliados para construir aplicações completas, criando soluções para diversos problemas dos clientes. Abaixo estão listadas a maioria das tecnologias com que trabalhei. 
 
 ### 👨‍💻 Linguagens e Ferramentas
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50"/>
@@ -33,6 +37,7 @@ No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que e
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50"/>
@@ -57,7 +62,7 @@ No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que e
   <img style="height:100%; width:40%" src="https://github-readme-stats.vercel.app/api?username=micaelmi&show_icons=true&theme=merko" alt="Estatísticas do GitHub">
   <img style="height:100%; width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmi&layout=compact&theme=dark" alt="Linguagens Mais Usadas">
 </div>
-(github-readme-stats)
+<!-- (github-readme-stats) -->
 
 ---
 
