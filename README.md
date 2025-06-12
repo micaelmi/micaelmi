@@ -2,32 +2,31 @@
 <img src="https://github.com/user-attachments/assets/03a2cea9-a758-480b-aafc-fe2f3219e628" alt="Cover">
 </div>
 
-
 <div align="center">
   <strong style="font-size:2.5rem; margin-top:1rem">
-    🐟🐟🐟🐟 Desenvolvedor Web FullStack | Apaixonado por Tecnologia | Análise e Desenvolvimento de Sistemas 🐙
+    🐟🐟🐟🐟 FullStack Web Developer | Passionate About Technology | Systems Analysis and Development 🐙
   </strong>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
-📚 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec de Bragança Paulista e em **Desenvolvimento de Sistemas** pela Etec Atibaia. 
+## 🧑‍💻 About Me
+📚 I have a degree in **Systems Analysis and Development** from Fatec of Bragança Paulista and in **Systems Development** from Etec Atibaia.
 
-👨‍💻 Tenho experiência em desenvolvimento web, e estou constantemente me atualizando para acompanhar as tendências tecnológicas.  
+👨‍💻 I have experience in web development and I'm constantly updating myself to keep up with tech trends.
 
-✨ Estou focado em **JavaScript**, com frameworks e bibliotecas como **React**, **Next.js** e **Node.js**, além de explorar o universo da robótica com **Arduino** e **ESP32**.  
+✨ I'm focused on **JavaScript**, using frameworks and libraries like **React**, **Next.js**, and **Node.js**, while also exploring the world of robotics with **Arduino** and **ESP32**.
 
-👨‍💼 Atualmente, atuo como **Desenvolvedor de Sistemas** na empresa **Star Seg** e também trabalho nos meus projetos pessoais.  
+👨‍💼 I'm currently living in Melbourne and studying English.
 
-🎯 Meu objetivo é ser um desenvolvedor de software confiante para criar as soluções necessárias aos problemas que eu me propor a resolver, auxiliando o público com a utilização da tecnologia nas mais diversas áreas.
+🎯 My goal is to be a confident software developer who creates solutions for the problems I set out to solve, helping people through the use of technology in various areas.
 
 ---
 
-## 🚀 Minhas Habilidades
-No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que eu mais me especializei foi no desenvolvimento web baseado em JavaScript, utilizando o React e o Node como meus principais aliados para construir aplicações completas, criando soluções para diversos problemas dos clientes. Abaixo estão listadas a maioria das tecnologias com que trabalhei. 
+## 🚀 My Skills
+Over the years, I've studied several languages and frameworks, but I’ve specialized in JavaScript-based web development, using React and Node as my main tools to build full-stack applications and provide solutions for various client needs. Below is a list of most of the technologies I’ve worked with.
 
-### 👨‍💻 Linguagens e Ferramentas
+### 👨‍💻 Languages and Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
@@ -46,7 +45,7 @@ No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" height="50"/>
 </div>
 
-### ⚡Minha stack favorita
+### ⚡My Favorite Stack
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50"/>
@@ -57,18 +56,18 @@ No decorrer dos anos, já estudei diversas linguagens e frameworks, mas no que e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50"/>
 </div>
 
-### 📈 Estatísticas do Meu Perfil
+### 📈 My Profile Stats
 <div>
-  <img style="height:100%; width:40%" src="https://github-readme-stats.vercel.app/api?username=micaelmi&show_icons=true&theme=merko" alt="Estatísticas do GitHub">
-  <img style="height:100%; width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmi&layout=compact&theme=dark" alt="Linguagens Mais Usadas">
+  <img style="height:100%; width:40%" src="https://github-readme-stats.vercel.app/api?username=micaelmi&show_icons=true&theme=merko" alt="GitHub Stats">
+  <img style="height:100%; width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmi&layout=compact&theme=dark" alt="Top Used Languages">
 </div>
 <!-- (github-readme-stats) -->
 
 ---
 
 <div style="display: flex; gap: 1rem">
-  <h2>📫 Contato </h2>
-  <p>Entre em contato comigo para conversarmos sobre algum projeto, aqui estão minhas redes:</p>
+  <h2>📫 Contact</h2>
+  <p>Get in touch with me if you’d like to chat about a project. Here are my networks:</p>
   <a href="mailto:micaelmiranda124@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
